@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://darklength.github.io/blog</id>
+    <title>Gridea</title>
+    <updated>2019-10-31T06:22:00.033Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://darklength.github.io/blog"/>
+    <link rel="self" href="https://darklength.github.io/blog/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://darklength.github.io/blog/images/avatar.png</logo>
+    <icon>https://darklength.github.io/blog/favicon.ico</icon>
+    <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://darklength.github.io/blog/post/hello-world</id>
+        <link href="https://darklength.github.io/blog/post/hello-world">
+        </link>
+        <updated>2019-10-31T06:20:54.000Z</updated>
+        <content type="html"><![CDATA[<p>这是测试。</p>
+]]></content>
+    </entry>
+</feed>
